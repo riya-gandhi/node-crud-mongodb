@@ -5,15 +5,14 @@ Navigate to the backend directory: cd task-manager-backend
 Install dependencies: npm install
 Start the server: node server.js
 The backend server should be running on http://localhost:5000.
-Frontend:
 
+Frontend:
 Navigate to the frontend directory: cd task-manager
 Install dependencies: npm install
 Start the development server: npm start
 The frontend should be running on http://localhost:3000.
 
 API Documentation
-
 Users Endpoint:
 1. GET /api/users: Get all users
 2. POST /api/users: Create a new user
