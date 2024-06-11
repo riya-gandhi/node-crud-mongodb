@@ -25,8 +25,8 @@ Tasks Endpoint:
 4. DELETE /api/tasks/:id: Delete a task by ID
 
 UI Components
-App Component: The main component that holds the entire application.
-TaskList Component: Displays a list of tasks.
-Task Component: Represents a single task.
-UserView Component: Displays tasks assigned to a particular user.
-AllUsersView Component: Displays tasks for all users.
+1. App Component: The main component that holds the entire application.
+2. TaskList Component: Displays a list of tasks.
+3. Task Component: Represents a single task.
+4. UserView Component: Displays tasks assigned to a particular user.
+5. AllUsersView Component: Displays tasks for all users.
